@@ -1,2 +1,26 @@
 GitCheatSheet.md
 
+# macOS system files
+.DS_Store
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders (common names)
+venv/
+env/
+.venv/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Ignore secrets or config files (customize if you have any)
+.env
+
+
